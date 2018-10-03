@@ -1,3 +1,13 @@
+/*Operating System: Ubuntu / Linux
+Language written in: C++
+Author: Suri Bhasker Sri Harsha 
+        MS - Research Scholar
+        IIT Tirupati
+
+Notice: The code is for everyone. Use it as you wish.
+        */
+
+
 #include<iostream>
 #include<stdio.h>
 #include<unistd.h>
